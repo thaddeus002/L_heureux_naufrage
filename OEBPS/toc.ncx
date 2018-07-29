@@ -14,15 +14,39 @@
   <navMap>
     <navPoint id="navpoint-1" playOrder="1">
       <navLabel>
-        <text>Book cover</text>
+        <text>Page de couverture</text>
       </navLabel>
       <content src="title.html"/>
     </navPoint>
     <navPoint id="navpoint-2" playOrder="2">
       <navLabel>
-        <text>Contents</text>
+        <text>Préface</text>
       </navLabel>
       <content src="preface.html"/>
+    </navPoint>
+    <navPoint id="navpoint-3" playOrder="3">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="intro.html"/>
+    </navPoint>
+    <navPoint id="navpoint-4" playOrder="4">
+      <navLabel>
+        <text>Acte Premier</text>
+      </navLabel>
+      <content src="acte_I.html"/>
+    </navPoint>
+    <navPoint id="navpoint-5" playOrder="5">
+      <navLabel>
+        <text>Acte II</text>
+      </navLabel>
+      <content src="acte_II.html"/>
+    </navPoint>
+    <navPoint id="navpoint-6" playOrder="6">
+      <navLabel>
+        <text>Acte III</text>
+      </navLabel>
+      <content src="acte_III.html"/>
     </navPoint>
   </navMap>
 </ncx>

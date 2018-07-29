@@ -14,12 +14,20 @@
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="cover" href="title.html" media-type="application/xhtml+xml"/>
     <item id="preface" href="preface.html" media-type="application/xhtml+xml"/>
+    <item id="intro" href="intro.html" media-type="application/xhtml+xml"/>
+    <item id="acte_I" href="acte_I.html" media-type="application/xhtml+xml"/>
+    <item id="acte_II" href="acte_II.html" media-type="application/xhtml+xml"/>
+    <item id="acte_III" href="acte_III.html" media-type="application/xhtml+xml"/>
     <item id="cover-image" href="images/Marie-Olympe-de-Gouges.jpg" media-type="image/png"/>
     <item id="css" href="stylesheet.css" media-type="text/css"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover" linear="no"/>
     <itemref idref="preface"/>
+    <itemref idref="intro"/>
+    <itemref idref="acte_I"/>
+    <itemref idref="acte_II"/>
+    <itemref idref="acte_III"/>
   </spine>
   <guide>
     <reference href="title.html" type="cover" title="Cover"/>
