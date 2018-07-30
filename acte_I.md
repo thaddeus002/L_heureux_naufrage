@@ -1,10 +1,8 @@
-
-ACTE PREMIER.
+# ACTE PREMIER.
 
 Le Théâtre représente le rivage d’une île déserte, bordée et environnée de rochers escarpés, à travers lesquels on aperçoit la pleine mer dans le lointain. Sur un des côtés en avant est l’ouverture d’une cabane entourée d’arbres fruitiers du climat; l’autre côté est rempli par l’entrée d’une forêt qui paraît impénétrable. Au moment où le rideau se lève, une tempête agite les flots: on voit un navire qui vient se briser sur la côte. Les vents s’appaisent et la mer se calme peu à peu.
 
-scène PREMIÈRE.
-
+## scène PREMIÈRE.
 
 ZAMOR, MIRZA.
 
@@ -60,7 +58,7 @@ ZAMOR.
 
 Ta naïveté me charme; c’est l’empreinte de la Nature. Je te quitte un moment. Va cueillir des fruits. Je vais faire un tour au bas de la côte pour y rassembler les débris de ce naufrage. Mais, que vois-je! une femme qui lutte contre les flots! Ah! Mirza, je vole à son secours. L’excès du malheur doit-il dispenser d’être humain? (Il descend du côté du rocher.)
 
-scène II.
+## scène II.
 
 
 MIRZA, seule.
@@ -69,7 +67,7 @@ Zamor va sauver cette infortunée! Puis-je ne pas adorer un cœur si tendre, si 
 
 
 
-scène III.
+## scène III.
 
 
 VALÈRE, seul, entre par le côté opposé à celui où Mirza est sortie.
@@ -78,7 +76,7 @@ Rien ne paraît sur les vagues encore émues. Ô ma femme! tu es perdue à jamai
 
 
 
-scène IV.
+## scène IV.
 
 
 VALÈRE, MIRZA.
@@ -90,7 +88,7 @@ Ah! Dieu! Quel est cet homme? s’il venait pour se saisir de Zamor et me sépar
 
 
 
-scène V.
+## scène V.
 
 
 VALÈRE, ZAMOR, SOPHIE.
@@ -119,7 +117,7 @@ Grand Dieu! vous me rendez ma SOPHIE! Ô chère épouse! objet de mes larmes et 
 SOPHIE.
 Providence divine! tu m’as sauvée! achève ton ouvrage, et rends moi mon père.
 
-scène VI.
+## scène VI.
 
 
 VALÈRE, ZAMOR, SOPHIE, MIRZA, apportant des fruits et de l’eau; elle entre en courant, et surprise de voir une femme, elle s’arrête.
@@ -171,7 +169,7 @@ Vous ne me devez rien, en vous secourant je ne fais qu’obéir à la voix de mo
 
 
 
-scène VII.
+## scène VII.
 
 
 MIRZA, SOPHIE, VALÈRE.
@@ -220,7 +218,7 @@ Nous sommes libres en apparence, mais nos fers n’en sont que plus pesants. Dep
 MIRZA.
 Oh! bon Dieu! Il y a donc partout des hommes méchants!
 
-scène VIII.
+## scène VIII.
 
 
 ZAMOR, sur le rocher, SOPHIE, VALÈRE, MIRZA.
@@ -300,7 +298,7 @@ Mirza, c’en est fait! nous sommes découverts.
 
 
 
-scène IX.
+## scène IX.
 
 
 LES PRÉCÉDENTS, Un Indien, plusieurs esclaves qui déscendent du rocher en courant.
@@ -401,5 +399,5 @@ On emmène Zamor et Mirza; les autres personnages les suivent, et tous vont s’
 
 
 
-Fin du premier Acte.
+## Fin du premier Acte.
 

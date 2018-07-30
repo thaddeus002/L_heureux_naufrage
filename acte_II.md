@@ -1,11 +1,10 @@
-
-ACTE II.
+# ACTE II.
 
 Le Théâtre change et représente un salon de Compagnie meublé à l’Indienne.
 
 
 
-scène PREMIÈRE.
+## scène PREMIÈRE.
 
 
 BETZI, AZOR.
@@ -137,7 +136,7 @@ Tu as raison: fais-le si tu peux, car je n’en aurais jamais la force.
 
 
 
-scène II.
+## scène II.
 
 
 LES PRÉCÉDENTS, CORALINE.
@@ -231,7 +230,7 @@ AZOR.
 
 Oh! oui.
 
-scène III.
+## scène III.
 
 
 les Précédents, Mme DE ST-FRÉMONT.
@@ -241,14 +240,14 @@ Mme DE SAINT-FRÉMONT.
 
 Mes enfants, j’ai besoin d’être seule. Laissez moi, et n’entrez point que je ne vous appelle, ou que vous n’ayez quelque nouvelle à m’annoncer. (Ils sortent.)
 
-scène IV.
+## scène IV.
 
 
 
 Mme DE SAINT-FRÉMONT, seule.
 Mon époux est sorti pour cette malheureuse affaire: il est allé dans une des habitations où l’on demandait sa présence. Depuis cette catastrophe la révolte règne dans l’esprit de nos esclaves. Tous soutiennent que Zamor est innocent et qu’il n’a tué le Commandeur que parce qu’il s’y est vu forcé; mais les Colons se sont réunis pour demander la mort de Mirza et de Zamor, et on les fait chercher partout. Mon mari voudrait bien faire grâce à Zamor, quoiqu’il ait prononcé son arrêt, ainsi que celui de la pauvre Mirza, qui doit périr avec son amant. Hélas! l’attente de leur supplice me jette dans une tristesse profonde. Je ne suis donc pas née pour être heureuse! En vain je suis adorée de mon époux: mon amour ne peut vaincre la mélancolie qui le consume. Depuis plus de dix ans il souffre, et je ne puis deviner la cause de sa douleur. C’est le seul de ses secrets dont je ne sois pas dépositaire. Il faut, lorsqu’il sera de retour, que je redouble d’efforts pour le lui arracher. Mais je l’entends.
 
-scène V.
+## scène V.
 
 
 Mme DE SAINT-FRÉMONT, M. DE SAINT-FRÉMONT.
@@ -328,7 +327,7 @@ Chère épouse! Ô moitié de moi-même! Cesse de déchirer ce cœur déjà trop
 
 
 
-scène VI.
+## scène VI.
 
 
 M. ET Mme DE SAINT-FRÉMONT, UN JUGE.
@@ -402,14 +401,14 @@ M. DE SAINT-FRÉMONT.
 
 Ma présence est nécessaire pour rétablir l’ordre et la discipline.
 
-scène VII.
+## scène VII.
 
 
 Mme DE SAINT-FRÉMONT, seule.
 
 Que je plains ces malheureux! c’en est fait! Ils vont mourir. Quel chagrin pour mon époux; mais un plus grand chagrin m’agite de nouveau. Tout ce qui porte le nom de Française m’épouvante! si c’était Clarisse! Oh! malheureuse, quel serait mon sort. Je connais les vertus de mon époux, mais je suis sa femme. Non, non! cessons de nous abuser! Clarisse, dans le malheur, a de plus grands droits sur son âme! Cachons le trouble qui m’agite.
 
-scène VIII.
+## scène VIII.
 
 
 Mme DE SAINT-FRÉMONT, BETZI, accourant.
@@ -431,7 +430,7 @@ BETZI.
 
 Ah! laissez-moi reprendre mes sens... Nous étions sur la terrasse; de temps en temps nous jettions tristement les yeux vers l’habitation. Nous voyons arriver de loin le père de Mirza avec un autre Esclave; au milieu d’eux était une étrangère, les cheveux épars et la douleur peinte sur son visage: ses yeux étaient fixés vers la terre, et quoiqu’elle marchât vîte, elle avait l’air fort occupée. Lorsqu’elle a été près de nous, elle a demandé Mme de SAINT-FRÉMONT. Elle nous a appris que Zamor l’a sauvée de la fureur des flots. Elle a ajouté: je mourrai aux pieds de M. le Gouverneur, si je n’obtiens sa grâce. Elle veut implorer votre secours. La voici.
 
-scène IX.
+## scène IX.
 
 
 LES PRÉCÉDENTES, SOPHIE, suivie de tous les esclaves.
@@ -457,7 +456,7 @@ SOPHIE, transportée.
 
 Ah! Madame, que de bienfaits à la fois! Hélas! je voudrais, autant que je le désire, vous prouver ma reconnaissance. (elle lui baise les mains.) Bientôt mon époux viendra s’acquitter envers vous de son devoir. Cher Valère, quelle heureuse nouvelle je vais t’apprendre! (Elle sort avec les Esclaves)
 
-scène X.
+## scène X.
 
 
 Mme DE SAINT-FRÉMONT, BETZI, CORALINE.
@@ -508,5 +507,4 @@ Mme DE SAINT-FRÉMONT.
 N’importe; je ne crains ni le danger ni la fatigue, quand il s’agit de sauver les jours de deux infortunés.
 
 
-Fin du deuxième Acte.
-
+## Fin du deuxième Acte.

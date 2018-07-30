@@ -1,11 +1,10 @@
-
-ACTE III.
+# ACTE III.
 
 Le Théâtre représente un lieu sauvage où l’on voit deux collines en pointes, et bordées de touffes d’arbrisseaux qui s’étendent à perte de vue. sur un des côtés est un rocher escarpé, dont le sommet est une plateforme, et dont la base est perpendiculaire sur le bord de l’avant-scène. On y monte du côté d’une des collines, de manière que les spectateurs y peuvent voir arriver tous les Personnages. On voit deçà et delà quelques cabanes de Nègres éparses.
 
 
 
-scène PREMIÈRE.
+## scène PREMIÈRE.
 
 
 VALÈRE, ZAMOR, MIRZA.
@@ -14,7 +13,7 @@ VALÈRE, ZAMOR, MIRZA.
 VALÈRE.
 Vous voilà libres! je vole à la tête de vos camarades. Mon épouse ne tardera pas longtemps à reparaître à nos yeux. Elle aura sans doute obtenu votre grâce de M. de SAINT-FRÉMONT. Je vous quitte pour un instant, et ne vous perds point de vue.
 
-scène II.
+## scène II.
 
 
 ZAMOR, MIRZA.
@@ -60,7 +59,7 @@ MIRZA.
 
 Que tu m’attendris! ne m’afflige pas davantage. Je sens que mon courage m’abandonne; mais ce bon Français revient à nous; que va-t-il nous apprendre?
 
-scène III.
+## scène III.
 
 
 ZAMOR, MIRZA, VALÈRE.
@@ -86,7 +85,7 @@ VALÈRE.
 
 Elle partagera vos regrets, n’en doutez point; mais fuyez des lieux trop funestes.
 
-scène IV.
+## scène IV.
 
 
 les Précédents, SOPHIE, ESCLAVES.
@@ -137,7 +136,7 @@ VALÈRE.
 Je les défendrai au péril de ma vie. Hélas! Ils allaient se sauver lorsque tu es venu les rassurer. Je vais savoir de l’officier qui commande ce détachement, quelle est sa mission.
 (Une compagnie de grenadiers et une de soldats Français se rangent au fond du Théâtre, la bayonnette au bout du fusil. En avant d’eux se place une troupe d’esclaves avec des arcs et des flêches; ils ont à leur tête le Major, le Juge et l’intendant des esclaves de M. de SAINT-FRÉMONT.)
 
-scène V.
+## scène V.
 
 
 LES PRÉCÉDENTS, LE MAJOR, LE JUGE, L’Indien, Grenadiers et soldats Français, plusieurs Esclaves.
@@ -251,7 +250,7 @@ LE MAJOR, aux soldats.
 
 soldats, arrêtez. (Au Juge.) Je ne suis point envoyé ici pour ordonner le carnage et pour répandre du sang, mais pour ramener l’ordre. Le Gouverneur ne sera pas longtemps à paraître, et sa prudence nous indiquera mieux ce que nous devons faire. (Aux Étrangers et aux Esclaves.) Rassurez-vous; je n’emploierai pas la force; vos efforts seraient inutiles, si je voulais l’exercer. (À Sophie.) Et vous, Madame, vous pouvez vous retirer à l’écart avec ces malheureux; j’attends M. le Gouverneur. (Sophie, Zamor et Mirza sortent avec quelques Esclaves.)
 
-scène VI.
+## scène VI.
 
 
 VALÈRE, LE MAJOR, LE JUGE, L’Indien, Grenadiers et soldats, Esclaves.
@@ -264,7 +263,7 @@ Je ne puis abandonner mon épouse dans cet état. Faites tous vos efforts auprè
 LE MAJOR.
 Reposez-vous sur moi; retirez-vous, et vous paraîtrez quand il en sera temps. (Valère sort.)
 
-scène VII.
+## scène VII.
 
 
 les Précédents, excepté VALÈRE.
@@ -281,7 +280,7 @@ Votre modération perd aujourd’hui la Colonie.
 LE MAJOR.
 Dites mieux; elle la sauve peut-être. Vous ne connaissez que vos lois cruelles, et moi, je connais l’art de la guerre et l’humanité. Ce ne sont point nos ennemis que nous combattons; ce sont nos esclaves, ou plutôt nos cultivateurs. Pour les réduire, il eût fallu, suivant vous, les faire passer au fil de l’épée, et dans cette circonstance, une imprudence nous menerait sans doute plus loin que vous ne pensez.
 
-scène VIII.
+## scène VIII.
 
 
 Les Précédents, M. DE SAINT-FRÉMONT, entrant d’un côté et Valère de l’autre. Deux Compagnies de Grenadiers et soldats conduisent plusieurs Esclaves enchaînés.
@@ -343,7 +342,7 @@ VALÈRE, pleurant.
 
 Que nous sommes à plaindre! Je ne survivrai pas à leur perte. (Il sort.)
 
-scène IX.
+## scène IX.
 
 
 les Précédents, excepté VALÈRE.
@@ -359,7 +358,7 @@ Monsieur le Major, faites avancer vos soldats. (À l’Indien.) Monsieur le Comm
 
 (L’Indien sort avec les Esclaves armés, tandis qu’une troupe d’autres viennent se jetter aux pieds de M. de SAINT-FRÉMONT.)
 
-scène X.
+## scène X.
 
 
 les Précédents excepté L’Indien. Les Esclaves armés sont remplacés par les Esclaves sans armes.
@@ -380,7 +379,7 @@ Ils connaissent bien votre cœur; mais vous ne pouvez céder à votre penchant s
 M. DE SAINT-FRÉMONT.
 Eh bien! je vous les abandonne. Hélas! les voici. Où me cacher? Que ce devoir est cruel!
 
-scène XI.
+## scène XI.
 
 
 les Précédents, L’Indien, ZAMOR, MIRZA, les Esclaves armés.
@@ -414,7 +413,7 @@ ZAMOR, aux esclaves armés.
 
 Mes amis, faites votre devoir. (Il prend Mirza dans ses bras, et monte avec elle sur le rocher, où ils se mettent à genoux. Les Esclaves ajustent leurs flêches.)
 
-scène XII.
+## scène XII.
 
 
 les Précédents, Mme DE SAINT-FRÉMONT, avec ses esclaves, Grenadiers et soldats Français.
@@ -423,7 +422,7 @@ les Précédents, Mme DE SAINT-FRÉMONT, avec ses esclaves, Grenadiers et soldat
 Mme DE SAINT-FRÉMONT.
 Arrêtez, Esclaves, et respectez la femme de votre Gouverneur. (À son époux.) Grâce, mon ami, grâce!
 
-scène XIII ET DERNIÈRE.
+## scène XIII ET DERNIÈRE.
 
 
 les Précédents, VALÈRE, SOPHIE.
@@ -547,5 +546,4 @@ Mes amis, je viens de vous accorder votre grâce. Que ne puis-je de même donner
 
 
 
-F I N.
-
+## F I N.
