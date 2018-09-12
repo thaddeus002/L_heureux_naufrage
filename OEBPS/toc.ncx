@@ -26,9 +26,9 @@
     </navPoint>
     <navPoint id="navpoint-3" playOrder="3">
       <navLabel>
-        <text>Introduction</text>
+        <text>Présentation des personnages</text>
       </navLabel>
-      <content src="intro.html"/>
+      <content src="personnages.html"/>
     </navPoint>
     <navPoint id="navpoint-4" playOrder="4">
       <navLabel>

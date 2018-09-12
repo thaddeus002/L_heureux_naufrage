@@ -14,7 +14,7 @@
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="cover" href="title.html" media-type="application/xhtml+xml"/>
     <item id="preface" href="preface.html" media-type="application/xhtml+xml"/>
-    <item id="intro" href="intro.html" media-type="application/xhtml+xml"/>
+    <item id="personnages" href="personnages.html" media-type="application/xhtml+xml"/>
     <item id="acte_I" href="acte_I.html" media-type="application/xhtml+xml"/>
     <item id="acte_II" href="acte_II.html" media-type="application/xhtml+xml"/>
     <item id="acte_III" href="acte_III.html" media-type="application/xhtml+xml"/>
@@ -24,7 +24,7 @@
   <spine toc="ncx">
     <itemref idref="cover" linear="no"/>
     <itemref idref="preface"/>
-    <itemref idref="intro"/>
+    <itemref idref="personnages"/>
     <itemref idref="acte_I"/>
     <itemref idref="acte_II"/>
     <itemref idref="acte_III"/>
