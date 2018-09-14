@@ -13,6 +13,7 @@
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="cover" href="title.html" media-type="application/xhtml+xml"/>
+    <item id="licence" href="licence.html" media-type="application/xhtml+xml"/>
     <item id="preface" href="preface.html" media-type="application/xhtml+xml"/>
     <item id="personnages" href="personnages.html" media-type="application/xhtml+xml"/>
     <item id="acte_I" href="acte_I.html" media-type="application/xhtml+xml"/>
@@ -23,6 +24,7 @@
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover" linear="no"/>
+    <itemref idref="licence"/>
     <itemref idref="preface"/>
     <itemref idref="personnages"/>
     <itemref idref="acte_I"/>
