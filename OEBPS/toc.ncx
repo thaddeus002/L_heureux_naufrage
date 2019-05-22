@@ -9,7 +9,7 @@
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
   <docTitle>
-    <text>L'esclavage des noirs</text>
+    <text>L'esclavage des Noirs</text>
   </docTitle>
   <navMap>
     <navPoint id="navpoint-1" playOrder="1">
@@ -20,29 +20,35 @@
     </navPoint>
     <navPoint id="navpoint-2" playOrder="2">
       <navLabel>
+        <text>Licence</text>
+      </navLabel>
+      <content src="licence.html"/>
+    </navPoint>
+    <navPoint id="navpoint-3" playOrder="3">
+      <navLabel>
         <text>Préface</text>
       </navLabel>
       <content src="preface.html"/>
     </navPoint>
-    <navPoint id="navpoint-3" playOrder="3">
+    <navPoint id="navpoint-4" playOrder="4">
       <navLabel>
         <text>Présentation des personnages</text>
       </navLabel>
       <content src="personnages.html"/>
     </navPoint>
-    <navPoint id="navpoint-4" playOrder="4">
+    <navPoint id="navpoint-5" playOrder="5">
       <navLabel>
         <text>Acte Premier</text>
       </navLabel>
       <content src="acte_I.html"/>
     </navPoint>
-    <navPoint id="navpoint-5" playOrder="5">
+    <navPoint id="navpoint-6" playOrder="6">
       <navLabel>
         <text>Acte II</text>
       </navLabel>
       <content src="acte_II.html"/>
     </navPoint>
-    <navPoint id="navpoint-6" playOrder="6">
+    <navPoint id="navpoint-7" playOrder="7">
       <navLabel>
         <text>Acte III</text>
       </navLabel>
