@@ -6,7 +6,9 @@ WORKING_DIR=OEBPS
 CONTENT=$(WORKING_DIR)/preface.html $(WORKING_DIR)/personnages.html $(WORKING_DIR)/acte_I.html $(WORKING_DIR)/acte_II.html $(WORKING_DIR)/acte_III.html
 
 $(WORKING_DIR)/%.html: %.md
-	Markdown.pl $^ > $@
+	cat html.header > $@
+	Markdown.pl $^ >> $@
+	echo "\n</body></html>\n" >> $@
 
 epub: $(CONTENT)
 	zip -0Xq $(EPUB) mimetype
