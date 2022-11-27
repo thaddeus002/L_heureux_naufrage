@@ -1,15 +1,16 @@
-# Create the epub
+# Générér le fichie epub
 
-To generate the file `l_heureux_naufrage.epub`, go under the sources directory and type the command
+Pour générer le fichier `l_heureux_naufrage.epub`, il suffit de taper la commande
 
     $ make
 
-## dependencies
+## dépendences
 
-There are not really dependencies, but you'll need some tools to create the epub : 
+Il n'y a pas vraiment de dépendences, mais la génération du fichier epub nécessite certains outils :
 
-  1. The official markdown to HTML converter `Markdown.pl` that can be found at [markdown website](https://daringfireball.net/projects/markdown)
-  2. A perl interpreter to execute this converter
-  3. The program `make`
-  4. The program `zip`
+  1. Le convertisseur markdown vers HTML ̀ Markdown.pl` qui peut être trouvé sur le [site officiel du format Markdown](https://daringfireball.net/projects/markdown)
+  2. Un interpréteur perl pour exécuter le convertisseur
+  3. Le programme `make`
+  4. Le programme `zip`
+
 
