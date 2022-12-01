@@ -146,7 +146,7 @@ Nous, vous abandonner! Jamais, non, jamais.
 
 **ZAMOR**
 
-Oui, ma chère Mirza, consolons-les dans leurs infortunes. (À Valère et à SOPHIE.) Reposez-vous sur moi; je vais parcourir tous les environs du rocher: si les pertes que vous avez faites sont parmi les débris du vaisseau, je vous promets de vous les apporter. Entrez dans notre cabane, étrangers malheureux; vous avez besoin de repos; je vais tâcher de rendre le calme à vos esprits agités.
+Oui, ma chère Mirza, consolons-les dans leurs infortunes. (À Valère et à Sophie.) Reposez-vous sur moi; je vais parcourir tous les environs du rocher: si les pertes que vous avez faites sont parmi les débris du vaisseau, je vous promets de vous les apporter. Entrez dans notre cabane, étrangers malheureux; vous avez besoin de repos; je vais tâcher de rendre le calme à vos esprits agités.
 
 **SOPHIE**
 
@@ -168,7 +168,7 @@ Je vous aime bien, quoique vous ne soyez pas esclave. Venez, j’aurai soin de v
 
 **SOPHIE**
 
-Oui? vous avez donc un Gouverneur dans cette île?
+Oui? Vous avez donc un Gouverneur dans cette île?
 
 **VALÈRE**
 
@@ -180,7 +180,7 @@ Oh! C’est bien vrai, et Zamor ne vous à point trompés. Je vous ai parlé du 
 
 **SOPHIE**, à Valère.
 
-son ingénuité m’enchante; sa physionomie est douce; et prévient en sa faveur.
+Son ingénuité m’enchante; sa physionomie est douce; et prévient en sa faveur.
 
 **VALÈRE**
 
